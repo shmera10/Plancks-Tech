@@ -4,7 +4,7 @@ This Assignment written in python 3.9 on windows with FastAPI library
 
 ## Swagger Ling
 
-[swagger-api-planck](https://swagger-api-planck.herokuapp.com/docs#/default/get_drinks_drinks_get)
+[swagger-api-planck](https://swagger-api-planck.herokuapp.com/docs)
 
 
 ## Installation
