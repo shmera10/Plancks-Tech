@@ -2,7 +2,7 @@
 
 This Assignment written in python 3.9 on windows with FastAPI library
 
-## Swagger Ling
+## Swagger Link
 
 [swagger-api-planck](https://swagger-api-planck.herokuapp.com/docs)
 
